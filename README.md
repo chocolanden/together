@@ -1,5 +1,10 @@
 <b>使用方式</b>
 <br>
+111文件<br>
+<li>bootstrap压缩包</li>
+<li>jQuery-3.4.1.min.js</li>
+<li>背景图：1.jpg</li>
+<br>
 学术家族树以文本形式输入，点击提交文本框。
 <br>
 <b>文本格式</b><br>
