@@ -1,6 +1,6 @@
 <b>使用方式</b>
 <br>
-111文件<br>
+111.rar<br>
 <li>bootstrap压缩包</li>
 <li>jQuery-3.4.1.min.js</li>
 <li>背景图：1.jpg</li>
